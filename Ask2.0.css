@@ -1,0 +1,48 @@
+#raj {
+   background-color: rgb(9, 140, 163);
+   padding: 20px;
+   margin: 10px;
+}
+
+#man {
+    background-color: rgb(255, 0, 0);
+    padding: 9px;
+    margin: 10px;
+ }
+    
+#ha {
+     background-color: rgb(255, 136, 0);
+     padding: 10px;
+     margin: 10px;
+}
+
+#x {
+   background-color: black;
+   padding: 9px;
+   margin: 10px;
+}
+
+#IN {
+   background-color: rgb(255, 0, 98);
+   padding: 9px;
+   margin: 10px;
+}
+
+#ANO {
+   background-color: rgb(0, 255, 34);
+   padding: 9px;
+   margin: 10px;
+}
+
+#DOWN {
+   background-color: rgb(64, 73, 153);
+   padding: 9px;
+   margin: 10px;
+}
+
+#CSD {
+   background-color: rgb(0, 195, 255);
+   padding: 9px;
+   margin: 10px;
+}
+
